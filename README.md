@@ -1,6 +1,6 @@
 # ACE Mega
 
-**A 1 kg autonomous sumobot built around aluminum, high-current motor control, and the pursuit of better pushing performance.**
+**Official Repository of ACE Mega, a 1 kg autonomous sumobot built around aluminum, high-current motor control, and the pursuit of better pushing performance. This is the 1kg sumo robot of the ACE competitive lineup.**
 
 ACE Mega is part of the ACE competitive robotics lineup. It pairs a custom aluminum chassis with DIY silicone wheels, a Cytron Maker RP2040 controller, and dual BTS7960 motor drivers.
 
